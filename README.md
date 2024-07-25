@@ -45,7 +45,7 @@ brew services start mongodb/brew/mongodb-community
 ```
 
 ### Linux
-[Refer to the official MongoDB installation guide.](https://docs.mongodb.com/manual/installation/#mongodb-community-edition)
+Refer to the[official MongoDB installation guide.](https://docs.mongodb.com/manual/installation/#mongodb-community-edition)
 
 
 ## Basic Operations
@@ -109,9 +109,9 @@ Sharding is a method for distributing data across multiple machines. MongoDB use
 - Consider sharding for large datasets.
 
 ## Resources
-[Official MongoDB Documentation](https://docs.mongodb.com/)
-[MongoDB University](https://university.mongodb.com/)
-[MongoDB Blog](https://www.mongodb.com/blog)
+- [Official MongoDB Documentation](https://docs.mongodb.com/)
+- [MongoDB University](https://university.mongodb.com/)
+- [MongoDB Blog](https://www.mongodb.com/blog)
 
 
 ## Contributing
