@@ -45,7 +45,7 @@ brew services start mongodb/brew/mongodb-community
 ```
 
 ### Linux
-Refer to the[official MongoDB installation guide.](https://docs.mongodb.com/manual/installation/#mongodb-community-edition)
+Refer to the official MongoDB [installation guide.](https://docs.mongodb.com/manual/installation/#mongodb-community-edition)
 
 
 ## Basic Operations
